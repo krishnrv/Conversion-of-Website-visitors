@@ -23,5 +23,5 @@ Modeling
   The idea is that using neural network's performance as baseline for logistic's performance. If logistic's performance is equal to nn's, I would select logistic model. If it is not, try to train logistic model to match nn's performance by adding interactions. Then if logistic's performance is still lower than nn's, I would choose nn.
 Model evaluation
   
-Metrics: AUC, gain chart and confusion matrix
+Metrics: AUCand confusion matrix
 Interpretation and application
