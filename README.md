@@ -6,7 +6,7 @@ We have data about users who hit our site: whether they converted or not as well
 their characteristics such as their country, the marketing channel, their age, whether they are
 repeat users and the number of pages visited during that session (as a proxy for site
 activity/time spent on site).
-# country : user country based on the IP address
+#country : user country based on the IP address**
 #age : user age. Self-reported at sign-in step
 #new_user : whether the user created the account during this session or had already an
 #account and simply came back to the site
